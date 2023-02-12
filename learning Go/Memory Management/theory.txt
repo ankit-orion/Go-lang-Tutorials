@@ -1,0 +1,20 @@
+Memory management
+In go lang memory management(allocation adn deallocation) happens automatically
+
+new() -> allocate memory but not initalised
+-> you will get a memory address
+-> zeroed storage -> you cannot put data initially
+
+-----------------------------------------------------
+
+make() -> allocate memory and initalised
+you will get a memeory address
+non - zeroed storage -> you can put any data
+
+// in majority of the cases we will be usig make()
+
+// runtime is a package in go lang just in case if you want to get information
+// like how much cpu is available   
+
+garbage collection - > there's a thresold value of which value is set 
+if you try to change it value more than that garbage collection gets triggered

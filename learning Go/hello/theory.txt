@@ -1,0 +1,35 @@
+go lang uses the power of cloud infrastructure
+
+is this language compiled{
+    compiled - every code it read frist then a output file is made
+    i.e exe
+    interpretted - code runs line by line
+
+    go lang is compiled like c/c++
+
+    go lang compiles everthing
+
+    go lang gives some set of tools
+
+    go lang can give some of the operations from operating system
+
+    what and where i can use go lang?
+
+    ans - drop box, system apps to web apps
+
+    already in productions
+
+    similarity with lots of languages - c, java, pascal
+
+    this langauge missess out a lot of feature but those features 
+    are not really neccessarly required in this language
+
+    it is kind of object oriented as there is not all the fetures of object oriented
+    for example there is no overloading
+    there is no class in go lang but theres a replacement for that called struct 
+
+    lexer - 
+
+    //
+     
+}
